@@ -5,7 +5,7 @@ export default function Header(){
             <img src="/globe.png" alt="globe.png" className='globe'/>
             <span>
                 <p>
-                    My header Journal
+                    My  Journal
                 </p>
             </span>
         </div>
